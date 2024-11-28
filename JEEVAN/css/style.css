@@ -115,11 +115,6 @@ p{
 
 
 
-
-
-/*//////////////////////////////////////////////////////////////////
-[ FONT ]*/
-
 @font-face {
     font-family: Montserrat-Regular;
     src: url('../fonts/montserrat/Montserrat-Regular.ttf'); 
@@ -141,8 +136,7 @@ p{
   }
   
   
-  
-  /*---------------------------------------------*/
+
   input {
       outline: none;
       border: none;
@@ -177,7 +171,7 @@ p{
   textarea::-moz-placeholder { color: #aaaaaa; }
   textarea:-ms-input-placeholder { color: #aaaaaa; }
   
-  /*---------------------------------------------*/
+
   button {
       outline: none !important;
       border: none;
@@ -192,11 +186,7 @@ p{
       border: none !important;
   }
   
-  
-  
-  
-  /*//////////////////////////////////////////////////////////////////
-  [ Contact ]*/
+ 
   
   
   .container-contact100 {
@@ -231,8 +221,7 @@ p{
     padding: 110px 130px 157px 148px;
   }
   
-  /*------------------------------------------------------------------
-  [  ]*/
+
   .contact100-pic {
     width: 310px;
     padding-top: 55px;
@@ -242,9 +231,7 @@ p{
     max-width: 100%;
   }
   
-  
-  /*------------------------------------------------------------------
-  [  ]*/
+ 
   .contact100-form {
     width: 390px;
   }
@@ -275,7 +262,6 @@ p{
     padding: 14px 30px;
   }
   
-  /*---------------------------------------------*/
   .wrap-input100 {
     position: relative;
     width: 100%;
@@ -293,9 +279,7 @@ p{
     color: #666666;
   }
   
-  
-  /*------------------------------------------------------------------
-  [ Focus ]*/
+
   .focus-input100 {
     display: block;
     position: absolute;
@@ -357,8 +341,6 @@ p{
     padding-left: 22px;
   }
   
-  /*------------------------------------------------------------------
-  [ Button ]*/
   .container-contact100-form-btn {
     width: 100%;
     display: -webkit-box;
@@ -400,9 +382,7 @@ p{
   }
 
   
-  
-  /*------------------------------------------------------------------
-  [ Responsive ]*/
+
   
   @media (max-width: 1200px) {
     .contact100-pic {
@@ -448,9 +428,6 @@ p{
     }
   }
   
-  
-  /*------------------------------------------------------------------
-  [ Alert validate ]*/
   
   .validate-input {
     position: relative;
@@ -537,10 +514,6 @@ p{
   }
 
   
-
-
-/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-About Us*/
 
 .Why
 {
